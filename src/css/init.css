@@ -29,26 +29,3 @@ input[type=radio]:focus{-webkit-appearance: radio;}/*单选框兼容*/
     display: table;
     clear: both;
 }
-.index_bottom {
-    width: 100%;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    background: #FFF;
-    border-top: 1px solid #CCC;
-}
-.index_bottom ul li {
-    float: left;
-    width: 20%;
-    text-align: center;
-    padding: 15px 0;
-}
-.index_bottom ul li a{
-    display: block;
-    width: 100%;
-    color: #999;
-    font-size: 16px;
-}
-.index_bottom ul li a.bottom_action {
-    color: #377cce;
-}

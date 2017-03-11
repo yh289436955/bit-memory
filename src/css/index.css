@@ -46,3 +46,40 @@
     color: #666666;
     font-size: 16px;
 }
+/*
+*记录文本界面
+*/
+.index_minutex {
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+    position: absolute;
+}
+.index_minutex .content_title {
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+}
+.index_minutex .content_title input {
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px dashed #CCCCCC;
+    padding-left: 15px;
+    color: #666666;
+
+}
+.index_minutex .content_text {
+    width: 100%;
+    height: 80%;
+    
+    margin-top: 10px;
+}
+.index_minutex .content_text textarea {
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    border: none;
+
+}

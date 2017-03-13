@@ -8,8 +8,8 @@ class Find extends React.Component {
     render (){
         return (
             <div>
-                <Public is_name="发现" />
                 <h1>发现界面</h1>
+                <Public is_name="发现" />
             </div>
         )
     }
